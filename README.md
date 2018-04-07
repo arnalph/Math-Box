@@ -9,7 +9,7 @@ Version: 0.0.1
 ### Functions
 The available in Math-box in version 0.0.1 is:
   * Heron's Formula for area of triangle.
-  * Area & Circumfrence of Circle.
+  * Area of Circle.
   * Simple & Compound Interest.
   * Area of a rectangle.
 ## Usage
