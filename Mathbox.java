@@ -1,7 +1,6 @@
 /**
  * Math-box is a simple math functions library designed to process basic math formulae.
- * @author Arnav M. Kamath
- * @version 0.0.1
+ * Author: Arnav M. Kamath
  */
 public class Mathbox
 {
